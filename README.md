@@ -1,7 +1,7 @@
 # Nexus Transit
 
 <p align="center">
-    <img src="Image/Logo.png" />
+    <img src="Nexus/Image/Logo.png" />
 <!--     <img src="https://user-images.githubusercontent.com/107456964/220406389-20f8b8d8-ac28-4c2a-b5ed-95f6e1d9afa0.jpg"> -->
 </p>  
 
@@ -151,7 +151,7 @@ Configures JWT-based authentication for securing the REST API.
 
 # FLOW CHART
 
-<img src="Image/flow chart.png" />
+<img src="Nexus/Image/flow chart.png" />
 <!-- ![FlowChartYourDoorFood](https://user-images.githubusercontent.com/107456964/220468355-2e96143c-3811-433b-ae7a-a7f97d00fa53.jpg) -->
 
 # Entity Relationship Diagram
